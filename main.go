@@ -2,7 +2,7 @@
 package main
 
 import (
-	_ "github.com/winlinvip/go-fdkaac/fdkaac"
+	_ "github.com/laice/go-fdkaac/fdkaac"
 )
 
 func main() {
